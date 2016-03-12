@@ -105,6 +105,7 @@ extern "C" {
  * field.
  */
 #define TB_MOD_ALT 0x01
+#define TB_MOD_MOTION 0x02
 
 /* Colors (see struct tb_cell's fg and bg fields). */
 #define TB_DEFAULT 0x00
